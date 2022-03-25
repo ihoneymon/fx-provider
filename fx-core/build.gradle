@@ -1,0 +1,5 @@
+description("fx-core module")
+
+dependencies {
+    implementation("org.springframework.boot:spring-boot-starter")
+}
